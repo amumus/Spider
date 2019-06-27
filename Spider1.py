@@ -1,4 +1,10 @@
 # -*- coding: utf-8 -*-
+'''
+https://www.zhihu.com/collection/345257778
+爬取表情包
+'''
+
+
 import os
 import re
 import requests
